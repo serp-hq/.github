@@ -47,6 +47,11 @@ runtime internals, browser APIs, or just curious about the future of Python.
 All work in this organization is open source under the [MIT License](LICENSE).
 
 ---
-
 ### ⚡ About
 Serp-HQ is not (yet) an official Python project. We are an independent community exploring ambitious ideas — together.
+
+This effort is led by [Michael Yazdani](https://github.com/BytesAndCoffee), a self-taught Python developer with a background in backend systems, reverse engineering, and scalable architecture.  
+- Creator of [QuadShot](https://github.com/BytesAndCoffee/QuadShot), a modular CPU emulator and custom assembly runtime.  
+- Contributor to projects like [zlog_sql](https://github.com/BytesAndCoffee/zlog-sql) and author of [zlog_parsing](https://github.com/BytesAndCoffee/zlog_parsing), focused on durability, logging, and production-ready design.  
+
+Serp-HQ is the natural next step: exploring a GraalVM-style runtime for Python, written in Rust and compiled to WASM, with the community guiding its direction.
