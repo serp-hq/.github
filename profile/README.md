@@ -29,8 +29,6 @@ A lightweight Python dialect for the browser.
 ---
 
 ## 📚 Resources
-- [Draft PEP: Serpentes VM](https://github.com/serp-hq/serpentes/PEP_YYYY_Serpentes.pdf)  
-- [Draft PEP: Garter Dialect](https://github.com/serp-hq/garter/PEP_XXXX_Garter.pdf)  
 - [Discussions](https://github.com/orgs/serp-hq/discussions)  
 
 ---
